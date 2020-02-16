@@ -2,7 +2,7 @@
 
 ### Contacts
 
-#### Phone Number: 8927110227
+#### Phone Number: 89271102299
 #### Mail: alexandrgazin48@gmail.com
 
 ### Summary
@@ -11,11 +11,11 @@
 
 ### Education
 
-#### 2012-2018 Bachelor Heat and Gas Supply and Construction, Faculty of Engineering and Environmental Engineering, Saratov State Agrarian University named after N.I. Vavilova, Saratov, Russia.
+#### 2012-2018 Bachelor Heat and Gas Supply and Construction, Faculty of Engineering and Environmental    Engineering, Saratov State Agrarian University named after N.I. Vavilova, Saratov, Russia.
 
 ### Skills
 
-#### HTML, CSS, Adobe Photoshop, Git
+#### HTML, CSS, Adobe Photoshop, Git.
 
 ### Tongue
 
