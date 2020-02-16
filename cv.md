@@ -2,7 +2,7 @@
 
 ### Contacts
 
-#### Phone Number: 89271102299
+#### Phone Number: 892711022--
 #### Mail: alexandrgazin48@gmail.com
 
 ### Summary
@@ -15,9 +15,9 @@
 
 ### Skills
 
-#### HTML, CSS, Adobe Photoshop, Git.
+#### HTML, CSS, Adobe Photoshop
 
 ### Tongue
 
 #### Native: Russian
-#### English: A2
+#### English: to medium A2
